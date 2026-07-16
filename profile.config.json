@@ -1,67 +1,75 @@
 {
   "$schema": "./profile.schema.json",
   "profile": {
-    "name": "Your Name",
-    "username": "yourusername",
-    "headline": "AI Engineer & Product Builder",
-    "affiliation": "Your University or Company",
-    "location": "City, Country",
-    "status": "Learning / Building / Shipping",
+    "name": "Nashwa Alya Zahra Pratiwi",
+    "username": "nashwaalya",
+    "headline": "Fullstack Developer Exploring Cloud & DevOps",
+    "affiliation": "Telkom University",
+    "location": "Bandung, Indonesia",
+    "status": "Building / Learning",
     "about": [
-      "I build practical systems at the intersection of artificial intelligence, software engineering, and products people can trust.",
-      "My work combines technical exploration with a builder mindset: understand the problem, test the system, and share what actually works."
+      "I'm an Information Technology student at Telkom University with hands-on fullstack development experience — building backends with Express.js and Next.js frontends, working with PostgreSQL and Prisma ORM, and deploying applications on Linux servers with Docker and Nginx.",
+      "More recently, I've been expanding into cloud infrastructure and DevOps practices, exploring AWS, Azure, CI/CD pipelines, and Infrastructure as Code to build more reliable and scalable systems end-to-end."
     ]
   },
   "research": {
-    "primary": "AI Agents",
-    "direction": "Reliable autonomous systems",
-    "themes": "Tool use / evaluation / human control",
-    "narrative": "I am interested in systems that can observe state, use tools, evaluate outcomes, and take bounded actions with clear evidence and human oversight."
+    "primary": "Fullstack & Cloud",
+    "direction": "Reliable and scalable systems",
+    "themes": "fullstack / automation / reliability",
+    "narrative": "I'm building end-to-end fluency across the stack — from designing backend APIs and frontend interfaces to automating how they get deployed and scaled in the cloud."
   },
   "focus": [
     {
-      "name": "AI Agents",
-      "description": "Autonomous workflows, tool use, evaluation, and reliable agent behavior."
+      "name": "Fullstack Development",
+      "description": "Building end-to-end web applications with Express.js, Next.js, and Prisma ORM."
     },
     {
-      "name": "Applied AI",
-      "description": "Turning model capabilities into useful and testable software systems."
+      "name": "Backend Engineering",
+      "description": "Designing robust REST APIs, working with PostgreSQL databases, and managing server application logic."
     },
     {
-      "name": "Developer Tools",
-      "description": "Better workflows for building, testing, and operating modern software."
+      "name": "Cloud & DevOps",
+      "description": "Automating deployments with GitLab CI/CD, configuring Docker containers, and managing AWS/Azure VMs."
+    },
+    {
+      "name": "Database Management",
+      "description": "Designing database schemas, managing PostgreSQL databases, and optimizing query performance using Prisma."
     }
   ],
   "projects": [
     {
-      "name": "Project One",
-      "url": "https://github.com/yourusername/project-one",
+      "name": "BJB Perencanaan",
+      "url": "https://github.com/nashwaalya/BJB_Perencanaan",
       "homepage": "",
-      "focus": "Primary project focus",
-      "summary": "A concise explanation of what the project does and why it matters.",
-      "heroLabel": "Primary build"
-    },
-    {
-      "name": "Project Two",
-      "url": "https://github.com/yourusername/project-two",
-      "homepage": "",
-      "focus": "Secondary project focus",
-      "summary": "A second project that supports the professional direction of this profile.",
-      "heroLabel": "Active system"
+      "focus": "Fullstack Document Management System",
+      "summary": "Built an internal document management system — backend with Express.js and PostgreSQL/Prisma ORM, deployed on Azure VM with Nginx as reverse proxy.",
+      "heroLabel": "Production Deployment"
     }
   ],
   "techStack": [
-    "TypeScript",
+    "Node.js",
+    "Express.js",
     "Next.js",
-    "Python",
+    "React",
     "PostgreSQL",
-    "Playwright"
+    "Prisma ORM",
+    "REST API",
+    "Docker",
+    "AWS EC2",
+    "AWS S3",
+    "Microsoft Azure VM",
+    "GitLab CI/CD",
+    "Nginx",
+    "Terraform",
+    "Git",
+    "Linux (Ubuntu)",
+    "Golang"
   ],
   "links": [
     {
       "label": "GitHub",
-      "value": "yourusername",
-      "url": "https://github.com/yourusername",
+      "value": "nashwaalya",
+      "url": "https://github.com/nashwaalya",
       "logo": "github",
       "color": "0B1220"
     }
@@ -71,7 +79,7 @@
     "limit": 6
   },
   "appearance": {
-    "palette": "signal"
+    "palette": "ocean"
   },
   "footer": "Building thoughtful systems and sharing what works."
 }
