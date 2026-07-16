@@ -44,6 +44,14 @@
       "focus": "Fullstack Document Management System",
       "summary": "Built an internal document management system — backend with Express.js and PostgreSQL/Prisma ORM, deployed on Azure VM with Nginx as reverse proxy.",
       "heroLabel": "Production Deployment"
+    },
+    {
+      "name": "Aplikasi Jabaraya",
+      "url": "https://github.com/Yoshirmdn/Tubes-Chevalier-FE",
+      "homepage": "",
+      "focus": "React Frontend Development",
+      "summary": "Contributed as a frontend developer for Jabaraya, building the user interface using React and Vite to deliver a responsive experience.",
+      "heroLabel": "Frontend Contributor"
     }
   ],
   "techStack": [
