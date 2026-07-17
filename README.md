@@ -46,7 +46,12 @@ I'm building end-to-end fluency across the stack — from designing backend APIs
 ## Recent Activity
 
 <!-- AUTO:ACTIVITY:START -->
-_Recent public activity will appear here after the workflow runs._
+- Jul 16, 2026: pushed 1 commit to [nashwaalya/nashwaalya](https://github.com/nashwaalya/nashwaalya).
+- Jul 16, 2026: created a branch in [nashwaalya/nashwaalya](https://github.com/nashwaalya/nashwaalya).
+- Jul 14, 2026: pushed 1 commit to [nashwaalya/BJB_Perencanaan](https://github.com/nashwaalya/BJB_Perencanaan).
+- Jul 10, 2026: pushed 1 commit to [nashwaalya/BJB_Perencanaan](https://github.com/nashwaalya/BJB_Perencanaan).
+- Jul 9, 2026: pushed 1 commit to [nashwaalya/BJB_Perencanaan](https://github.com/nashwaalya/BJB_Perencanaan).
+- Jul 8, 2026: pushed 1 commit to [nashwaalya/BJB_Perencanaan](https://github.com/nashwaalya/BJB_Perencanaan).
 <!-- AUTO:ACTIVITY:END -->
 
 ---
